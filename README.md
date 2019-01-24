@@ -1,1 +1,1 @@
-# ModuleD
+pod "ModuleD"
